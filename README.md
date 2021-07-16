@@ -6,6 +6,7 @@ The next step for running the project
 2.- You need postman o extension of chrome o firefox for testing URL  
 
 3.- For example the urls:
+
 	- POST - http://server:port/backups 
 	
 	- GET - http://server:port/backups
